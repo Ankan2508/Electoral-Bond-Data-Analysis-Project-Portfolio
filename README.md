@@ -1,6 +1,8 @@
 # Electoral-Bond-Data-Analysis-Project-Portfolio
 Electoral Bond Data Analysis Project using Excel, PostgreSQL and Power BI
 
+Medium Blog: https://medium.com/@ankan.ab21/electoral-bond-data-analysis-portfolio-project-using-excel-postgresql-and-power-bi-b02aa06d3a0c
+
 Info:
 
 On 15th February, the Supreme Court of India scrapped the Electoral Bond Scheme introduced in 2018, which allowed anonymous political funding, and ordered the disclosure of donors, the amount they donated, and the recipients. The Election Commission published the electoral bonds data shared by SBI on its website. The data released showed the details of the purchase of electoral bonds by companies and individuals of denominations between Rs 1,000 to Rs 1 crore since April 12, 2019. 
